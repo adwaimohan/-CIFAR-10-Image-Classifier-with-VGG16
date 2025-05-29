@@ -6,6 +6,8 @@ A user-friendly web application that classifies images using a VGG16 model train
 
 📂 Project Structure
 
+```
+📂 Project Structure
 ├── app.py                 # Streamlit web app for image classification
 ├── scripts/
 │   ├── test.py            # Script to test model accuracy on CIFAR-10 test set
@@ -14,6 +16,7 @@ A user-friendly web application that classifies images using a VGG16 model train
 │   ├── vgg16_cifar10.pth  # Pretrained VGG16 model trained on CIFAR-10
 │   └── model.md           # Instructions to download the pretrained model
 └── requirements.txt       # Required Python dependencies
+```
 
 
 
